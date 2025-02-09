@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "plik-do-portfolio-lab"
+version = "0.1.0"
+description = ""
+authors = ["MateuszPietkiewicz <mateuszpietkiewicz1@gmail,com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+requests = "^2.32.3"
+pandas = "^2.2.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
