@@ -1,3 +1,4 @@
 .notebooks/
 .idea
 .venv
+data/raw/flights.csv
