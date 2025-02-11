@@ -3,7 +3,7 @@ import requests
 
 
 csv_file_path1 = "data/airports.csv"
-output_file_path2 = "data/airport_list.csv"
+output_file_path2 = "data/raw/airport_list.csv"
 
 headers = {
     "accept": "application/json",
